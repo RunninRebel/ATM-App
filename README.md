@@ -1,2 +1,2 @@
 # ATM-App
-Application mimicing an ATM
+Application mimicking an ATM
